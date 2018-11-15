@@ -1,1 +1,3 @@
 modifying the remote repo in local
+
+pullying the same to Local Repository using pull command.
